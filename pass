@@ -1,7 +1,7 @@
 {
   "bitquant": {
     "pass": "bitquant16",
-    "expiry": "2025-06-20"
+    "expiry": "2025-06-10"
   },
   "oauth2": {
     "pass": "oauth2",
