@@ -6,5 +6,9 @@
   "oauth2": {
     "pass": "oauth2209",
     "expiry": "2025-07-01"
+  },
+  "craftworld": {
+    "pass": "wukong99",
+    "expiry": "2025-07-01"
   }
 }
