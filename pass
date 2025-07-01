@@ -1,14 +1,14 @@
 {
   "bitquant": {
-    "pass": "bitquant16",
-    "expiry": "2025-07-01"
+    "pass": "bitquant01",
+    "expiry": "2025-07-10"
   },
   "oauth2": {
-    "pass": "oauth2209",
-    "expiry": "2025-07-01"
+    "pass": "oauth201",
+    "expiry": "2025-07-10"
   },
   "craftworld": {
-    "pass": "wukong99",
-    "expiry": "2025-07-01"
+    "pass": "craftworld01",
+    "expiry": "2025-07-10"
   }
 }
