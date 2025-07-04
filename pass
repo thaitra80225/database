@@ -11,6 +11,10 @@
     "pass": "r201",
     "expiry": "2025-07-10"
   },
+  "pharos": {
+    "pass": "pharos001",
+    "expiry": "2025-07-10"
+  },
   "craftworld": {
     "pass": "craftworld01",
     "expiry": "2025-07-10"
