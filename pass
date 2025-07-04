@@ -7,6 +7,10 @@
     "pass": "oauth201",
     "expiry": "2025-07-10"
   },
+  "r2": {
+    "pass": "r201",
+    "expiry": "2025-07-10"
+  },
   "craftworld": {
     "pass": "craftworld01",
     "expiry": "2025-07-10"
