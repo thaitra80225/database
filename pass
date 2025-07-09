@@ -15,8 +15,12 @@
     "pass": "pharos001",
     "expiry": "2025-07-10"
   },
-  "craftworld": {
-    "pass": "craftworld01",
+  "gettokendiscord": {
+    "pass": "dis01",
+    "expiry": "2025-07-10"
+  },
+  "faucetr2": {
+    "pass": "faur201",
     "expiry": "2025-07-10"
   }
 }
