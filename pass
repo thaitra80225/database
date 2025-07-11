@@ -1,26 +1,26 @@
 {
   "bitquant": {
-    "pass": "bitquant01",
-    "expiry": "2025-07-10"
+    "pass": "wukong000",
+    "expiry": "2025-07-20"
   },
   "oauth2": {
-    "pass": "oauth201",
-    "expiry": "2025-07-10"
+    "pass": "wukong000",
+    "expiry": "2025-07-20"
   },
   "r2": {
-    "pass": "r201",
-    "expiry": "2025-07-10"
+    "pass": "wukong000",
+    "expiry": "2025-07-20"
   },
   "pharos": {
-    "pass": "pharos001",
-    "expiry": "2025-07-10"
+    "pass": "wukong000",
+    "expiry": "2025-07-20"
   },
   "gettokendiscord": {
-    "pass": "wukong01",
-    "expiry": "2025-07-10"
+    "pass": "wukong000",
+    "expiry": "2025-07-20"
   },
   "faucetr2": {
-    "pass": "wukong01",
-    "expiry": "2025-07-10"
+    "pass": "wukong000",
+    "expiry": "2025-07-20"
   }
 }
