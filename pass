@@ -1,26 +1,26 @@
 {
   "bitquant": {
     "pass": "wukong000",
-    "expiry": "2025-07-20"
+    "expiry": "2025-08-1"
   },
   "oauth2": {
     "pass": "wukong000",
-    "expiry": "2025-07-20"
+    "expiry": "2025-08-1"
   },
   "r2": {
     "pass": "wukong000",
-    "expiry": "2025-07-20"
+    "expiry": "2025-08-1"
   },
   "pharos": {
     "pass": "wukong000",
-    "expiry": "2025-07-20"
+    "expiry": "2025-08-1"
   },
   "gettokendiscord": {
     "pass": "wukong000",
-    "expiry": "2025-07-20"
+    "expiry": "2025-08-1"
   },
   "faucetr2": {
     "pass": "wukong000",
-    "expiry": "2025-07-20"
+    "expiry": "2025-08-1"
   }
 }
