@@ -1,4 +1,8 @@
 {
+  "all": {
+    "pass": "nopass",
+    "expiry": "2025-09-1"
+  },
   "bitquant": {
     "pass": "nopass",
     "expiry": "2025-09-1"
