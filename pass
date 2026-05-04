@@ -1,27 +1,27 @@
 {
   "all": {
     "pass": "wustudio",
-    "expiry": "2026-5-1"
+    "expiry": "2026-6-1"
   },
   "bitquant": {
     "pass": "wustudio",
-    "expiry": "2026-5-1"
+    "expiry": "2026-6-1"
   },
   "oauth2": {
     "pass": "wustudio",
-    "expiry": "2026-5-1"
+    "expiry": "2026-6-1"
   },
   "r2": {
     "pass": "wustudio",
-    "expiry": "2026-5-1"
+    "expiry": "2026-6-1"
   },
   "pharos": {
     "pass": "wustudio",
-    "expiry": "2026-5-1"
+    "expiry": "2026-6-1"
   },
   "gettokendiscord": {
     "pass": "wustudio",
-    "expiry": "2026-5-1"
+    "expiry": "2026-6-1"
   },
   "faucetr2": {
     "pass": "wustudio",
